@@ -13,11 +13,17 @@ img {
   text-align: center;
   color: grey;
   font-size: 175%;
-  padding-bottom: 100px;
+  margin-bottom: 55px;
+  padding-bottom: 40px;
+  background-color: #ededeb;
 }
 
 h4 {
   font-style: italic;
+}
+
+.headerTitle {
+  letter-spacing: 20px;
 }
 
 /* .list p {
